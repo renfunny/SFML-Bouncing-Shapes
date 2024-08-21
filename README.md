@@ -1,4 +1,4 @@
-#SFML Bouncing Shapes
+# SFML Bouncing Shapes
 
 This project was made to learn about SFML, a library used for the development of games. 
 The program will read a config.txt file, and create shapes based on the specification sof the file, for example, 
@@ -15,5 +15,5 @@ Will create a Rectangle shape, with the name RRed, a X and Y position of (200, 2
 The config also specifies the size of the window and the font used for the text (the font must be located in the font directory in order to work).
 
  
-##Demo
+## Demo
 ![](https://github.com/renfunny/SFML-Bouncing-Shapes/blob/main/SFML%20SHAPES.gif)
