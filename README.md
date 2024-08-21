@@ -16,4 +16,4 @@ The config also specifies the size of the window and the font used for the text 
 
  
 ##Demo
-![](https:://github.com/renfunny/SFML-Bouncing-Shapes/SFML%20Shapes.gif)
+[https:://github.com/renfunny/SFML-Bouncing-Shapes/SFML%20Shapes.gif](https://github.com/renfunny/SFML-Bouncing-Shapes/blob/main/SFML%20SHAPES.gif)
